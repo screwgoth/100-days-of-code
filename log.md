@@ -19,12 +19,12 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: January 19, Thursday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Commited some changes to the rasbot project. Also started with FreeCodeCamp FrontEnd Development on HTML.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Need to spend some more time on rasbot installation. Most of the stuff HTML on FCC was already known.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Use RGB to Mix Colors](https://www.freecodecamp.com/challenges/use-rgb-to-mix-colors)
+2. [rasbot](https://github.com/screwgoth/rasbot)
