@@ -29,3 +29,23 @@
 **Link(s) to work**
 1. [Responsive Style Checkboxes](
 https://www.freecodecamp.com/challenges/responsively-style-checkboxes)
+
+### Day 4: January 22, Sunday
+
+**Today's Progress**: FCC's Bootstrap section and jQuery section completed.
+
+**Thoughts** I think jQuery and Bootstrap were very basic.
+
+**Link(s) to work**
+1. [Use jQuery to modify the entire page](
+https://www.freecodecamp.com/challenges/use-jquery-to-modify-the-entire-page)
+
+### Day 5: January 23, Monday
+
+**Today's Progress**: FCC's Basic Javascript section in progress
+
+**Thoughts** Up until now, except for shift, unshift, nothing new learnt.
+
+**Link(s) to work**
+1. [Understanding Boolean Values](
+https://www.freecodecamp.com/challenges/understanding-boolean-values)
